@@ -23,7 +23,7 @@ function Header(props) {
 
 const styles = {
 	header: {
-		backgroundColor: "black",
+		backgroundColor: "grey",
 		color: "white",
 		textAlign: "center",
 		padding: "10px",
